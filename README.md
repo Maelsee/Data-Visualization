@@ -14,7 +14,14 @@ linux or mac 执行步骤：
 
 4. 在python文件中导入模块:datevisual 
 
+5. 提前安装好必要模块
+
+   ```bash
+   pip install xlrd openpyxl  pyecharts --user
+   ```
+
 ## 方法二：
 
 ​    1.将execlvisual.py文件移到你自己项目同级目录下面
 ​    2.import execlvisual
+
